@@ -1,3 +1,5 @@
+# Opens a random .mkv file from the folder where the script is present
+# uses gnome-open, python.
 import os
 import subprocess
 from random import randint
